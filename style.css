@@ -1,0 +1,11 @@
+p{
+    background: red;
+    font-size: 12px;
+    padding: 10px;
+}
+label{
+    margin-right: 5px;
+}
+select{
+    margin-right: 5px;
+}
